@@ -14,4 +14,4 @@ derive_more = "0.99"
 serde = "1.0"
 thiserror = "1.0"
 lazy_static = "1.4"
-hdk = {version = "0.0.133", features = ["encoding"]}
+hdk = {version = "0.0.140", features = ["encoding"]}

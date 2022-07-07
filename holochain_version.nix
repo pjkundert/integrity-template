@@ -4,8 +4,8 @@
 
 {
     url = "https://github.com/holochain/holochain";
-    rev = "holochain-0.0.140";
-    sha256 = "1libfmilwpdi8fh0mf21pdnjl1259hjrp1dgr0v7b9q5dg9nrx3m";
+    rev = "holochain-0.0.147";
+    sha256 = "1zbyrwki4i8v56pr1pvxf495kmns2f9ic382mbjh2f7x62j78cq2";
     cargoLock = {
         outputHashes = {
         };
@@ -21,8 +21,8 @@
 
     lair = {
         url = "https://github.com/holochain/lair";
-        rev = "v0.0.10";
-        sha256 = "1j6ii77v2p846irq2ipq63as8h6c1swr0jdx8338kgdss1vaq468";
+        rev = "v0.0.11";
+        sha256 = "1d12zfxq4q77afb7rify7kbc72kz2pxf1zxazk9h55lxxmb42r36";
 
         binsFilter = [
             "lair-keystore"
